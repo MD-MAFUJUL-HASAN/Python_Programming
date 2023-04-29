@@ -1,124 +1,26 @@
-![image](https://user-images.githubusercontent.com/128472454/226677523-c5832668-6b98-4a2b-9233-02473f17510a.jpg)
-
-<div Align="center"><h1> <a href="https://github.com/MD-MAFUJUL-HASAN/Python_Programming"> Python Programming </a></h1></div>
+<div align="center">
   
-**These Contain Some Python Language Program that I have done while understanding Programming Concepts.**
+  ### Python_Programming
+</div>
 
-**The detailed Description of each project along with the meta projects listed in this repository can be found at github page :-**
-
-**_[https://github.com/MD-MAFUJUL-HASAN/Python_Programming/](https://github.com/MD-MAFUJUL-HASAN/Python_Programming)_ **
-
-
-### [List of Some Python Program](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/) :- ⭐⭐⭐
-
-* [1-dimension with index](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/1-dimension%20with%20index.py)
-* [1 to 10](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/1%20to%2010.py)
-* [2 dimension](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/2%20dimension.py)
-* [ASCII value](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/ASCII%20value.py)
-* [Add Two Numbers With User Input](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Add%20Two%20Numbers%20With%20User%20Input.py)
-* [Add Two Numbers](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Add%20Two%20Numbers.py)
-* [Addition of string and integer using explicit conversion](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Addition%20of%20string%20and%20integer%20using%20explicit%20conversion.py)
-* [Area of Circle](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Area%20of%20Circle.py)
-* [Area of Triangle](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Area%20of%20Triangle.py)
-* [Armstrong number](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Armstrong%20number.py)
-* [Armstrong numbers in a certain interval](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Armstrong%20numbers%20in%20a%20certain%20interval.py)
-* [Check Armstrong number of n digits](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Check%20Armstrong%20number%20of%20n%20digits.py)
-* [Converting integer to float](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Converting%20integer%20to%20float.py)
-* [Data Types](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Data%20Types.py)
-* [Dictionaries](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Dictionaries.py)
-* [Factorial of a number using recursion](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Factorial%20of%20a%20number%20using%20recursion.py)
-* [Fibonacci sequence up to n-th term](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Fibonacci%20sequence%20up%20to%20n-th%20term.py)
-* [Find Numbers Divisible by Another Number](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Find%20Numbers%20Divisible%20by%20Another%20Number.py)
-* [Find Resolution of JPEG Image](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Find%20Resolution%20of%20JPEG%20Image.py)
-* [Find square root of real or complex numbers](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Find%20square%20root%20of%20real%20or%20complex%20numbers.py)
-* [Kilometers to Miles](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Kilometers%20to%20Miles.py)
-* [Letter grade](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Letter%20grade.py)
-* [Merge Mails](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Merge%20Mails.py)
-* [Multiplication table](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Multiplication%20table.py)
-* [Numeric literals](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Numeric%20literals.py)
-* [Python List](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Python%20List.py)
-* [Python Program to calculate the square root](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Python%20Program%20to%20calculate%20the%20square%20root.py)
-* [Python Program to find the area of triangle](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Python%20Program%20to%20find%20the%20area%20of%20triangle.py)
-* [Python Set](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Python%20Set.py)
-* [Remove Punctuations From a String](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Remove%20Punctuations%20From%20a%20String.py)
-* [Simple Calculator by Using Functions](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Simple%20Calculator%20by%20Using%20Functions.py)
-* [Sort Words in Alphabetic Order](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Sort%20Words%20in%20Alphabetic%20Order.py)
-* [Strings](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Strings.py)
-* [Sum of 2 number](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Sum%20of%202%20number.py)
-* [Sum of natural numbers](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Sum%20of%20natural%20numbers.py)
-* [Swap two numbers Without Using Temporary Variable](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Swap%20two%20numbers%20Without%20Using%20Temporary%20Variable.py)
-* [Tuple](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/Tuple.py)
-* [add two matrices using list comprehension](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/add%20two%20matrices%20using%20list%20comprehension.py)
-* [add two matrices using nested loop](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/add%20two%20matrices%20using%20nested%20loop.py)
-* [boolean literals](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/boolean%20literals.py)
-* [check if a number is positive,negetive or 0](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/check%20if%20a%20number%20is%20positive%2Cnegetive%20or%200.py)
-* [class](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/class.py)
-* [comprehensive function](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/comprehensive%20function.py)
-* [constructor](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/constructor.py)
-* [convert decimal into other number systems](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/convert%20decimal%20into%20other%20number%20systems.py)
-* [convert temperature in celsius to fahrenheit](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/convert%20temperature%20in%20celsius%20to%20fahrenheit.py)
-* [count the number of each vowels Using dictionary and list comprehension](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/count%20the%20number%20of%20each%20vowels%20Using%20dictionary%20and%20list%20comprehension.py)
-* [count the number of each vowels using dictionary](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/count%20the%20number%20of%20each%20vowels%20using%20dictionary.py)
-* [different set operations](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/different%20set%20operations.py)
-* [display all the prime numbers within an interval](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/display%20all%20the%20prime%20numbers%20within%20an%20interval.py)
-* [display calendar of the given month and year](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/display%20calendar%20of%20the%20given%20month%20and%20year.py)
-* [display fibonacci sequence using recursion](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/display%20fibonacci%20sequence%20using%20recursion.py)
-* [double value](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/double%20value.py)
-* [exception handling](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/exception%20handling.py)
-* [exception](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/exception.py)
-* [factorial of a number provided by the user](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/factorial%20of%20a%20number%20provided%20by%20the%20user.py)
-* [filter function](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/filter%20function.py)
-* [find HCF the Using Euclidian algorithm](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/find%20HCF%20the%20Using%20Euclidian%20algorithm.py)
-* [find LCM using greatest common divisor (G.C.D)](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/find%20LCM%20using%20greatest%20common%20divisor%20(G.C.D).py)
-* [find The least common multiple (L.C.M.) of two numbers](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/find%20The%20least%20common%20multiple%20(L.C.M.)%20of%20two%20numbers.py)
-* [find digit number and letter](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/find%20digit%20number%20and%20letter.py)
-* [find highest common factor (H.C.F) of two numbers](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/find%20highest%20common%20factor%20(H.C.F)%20of%20two%20numbers.py)
-* [find the SHA-1 message digest of a file](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/find%20the%20SHA-1%20message%20digest%20of%20a%20file.py)
-* [find the factors of a number](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/find%20the%20factors%20of%20a%20number.py)
-* [find the sum of natural using recursive function](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/find%20the%20sum%20of%20natural%20using%20recursive%20function.py)
-* [for loop](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/for%20loop.py)
-* [function](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/function.py)
-* [generate a random number](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/generate%20a%20random%20number.py)
-* [guessing game](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/guessing%20game.py)
-* [if-else](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/if-else.py)
-* [lambda function](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/lambda%20function.py)
-* [largest number among the three input numbers](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/largest%20number%20among%20the%20three%20input%20numbers.py)
-* [largest number of 3 value](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/largest%20number%20of%203%20value.py)
-* [leap year](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/leap%20year.py)
-* [literals collections](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/literals%20collections.py)
-* [map function](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/map%20function.py)
-* [matrix](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/matrix.py)
-* [method](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/method.py)
-* [multiply two matrices using list comprehension](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/multiply%20two%20matrices%20using%20list%20comprehension.py)
-* [multiply two matrices using nested loops](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/multiply%20two%20matrices%20using%20nested%20loops.py)
-* [n series square summation](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/n%20series%20square%20summation.py)
-* [n series summation](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/n%20series%20summation.py)
-* [odd or even](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/odd%20or%20even.py)
-* [palindrome or not](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/palindrome%20or%20not.py)
-* [pattern 2](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/pattern%202.py)
-* [pattern 3](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/pattern%203.py)
-* [pattern](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/pattern.py)
-* [powers of 2 using anonymous function](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/powers%20of%202%20using%20anonymous%20function.py)
-* [prime number Using a flag variable](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/prime%20number%20Using%20a%20flag%20variable.py)
-* [prime number Using a for...else statement](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/prime%20number%20Using%20a%20for...else%20statement.py)
-* [print binary number using recursion](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/print%20binary%20number%20using%20recursion.py)
-* [quadratic equation](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/quadratic%20equation.py)
-* [queue](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/queue.py)
-* [read file](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/read%20file.py)
-* [recursion](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/recursion.py)
-* [set](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/set.py)
-* [shuffle a deck of card](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/shuffle%20a%20deck%20of%20card.py)
-* [special literals](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/special%20literals.py)
-* [stack](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/stack.py)
-* [string literals](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/string%20literals.py)
-* [summation of list](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/summation%20of%20list.py)
-* [swap two variables Using a temporary variable](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/swap%20two%20variables%20Using%20a%20temporary%20variable.py)
-* [swapping](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/swapping.py)
-* [transpose a matrix using a nested loop](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/transpose%20a%20matrix%20using%20a%20nested%20loop.py)
-* [transpose a matrix using list comprehension](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/transpose%20a%20matrix%20using%20list%20comprehension.py)
-* [tuples](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/tuples.py)
-* [vowel or consonant](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/vowel%20or%20consonant.py)
-* [write file](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/write%20file.py)
-* [xargs](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/xargs.py)
-* [xxargs](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/xxargs.py)
-* [zip function](https://github.com/MD-MAFUJUL-HASAN/Python_Programming/blob/main/zip%20function.py)
+<p align="center">
+&emsp;
+  <img src="https://img.shields.io/github/languages/code-size/MD-MAFUJUL-HASAN/Python_Programming?style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/repo-size/MD-MAFUJUL-HASAN/Python_Programming?color=purple&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/languages/count/MD-MAFUJUL-HASAN/Python_Programming?color=green&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/languages/top/MD-MAFUJUL-HASAN/Python_Programming?color=orange&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/commit-activity/m/MD-MAFUJUL-HASAN/Python_Programming?color=lime&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/last-commit/MD-MAFUJUL-HASAN/Python_Programming?color=darkgreen&style=for-the-badge">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/Python_Programming?category=code" width="200">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/Python_Programming?category=lines" width="175">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/Python_Programming?category=files" width="100">
+  &emsp;
+  </p>
